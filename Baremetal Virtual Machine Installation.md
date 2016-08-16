@@ -28,6 +28,7 @@
 
 ### Setp 6 - ESXi installer End user license agreement. ###
 >After you press the Enter to continue you will be seen "End user license agreement " window.
+![](http://i.imgur.com/POu3nKl.jpg)
 
 ###Step 7 - Exsi Installer Select a disk. ###
 >After you press the F11 button to Accept and Continue will be seen " Select a disk " window.
