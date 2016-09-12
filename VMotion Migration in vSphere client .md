@@ -76,7 +76,7 @@ Subnet Mask: 255.255.255.252 (Since we will use only 2 ip's). Then click next.
 
 ###Step 8 - Configure the other Virtual machine's VMotion Port. ###
 
-> Here you have to do the step 3 to step 7 the other Virtual machine.
+> Here you have to do the step 3 to step 7 for the other Virtual machine.
 >> Step 8.1 Click on Add Networking to create a new Virtual Switch.
 ![](http://i.imgur.com/9OmvD3M.jpg)
 
